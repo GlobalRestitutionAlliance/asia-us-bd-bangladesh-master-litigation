@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: bangladeshan-restitution-roadmap-and-qsf-trust-execution
-  name: Bangladeshan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/bangladeshan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_bd_001
+    name: Bangladesh Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_002
+    name: Bangladesh Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_003
+    name: Bangladesh Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_004
+    name: Bangladesh Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_005
+    name: Bangladesh Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_006
+    name: Bangladesh Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_007
+    name: Bangladesh Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_008
+    name: Bangladesh Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_009
+    name: Bangladesh Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_010
+    name: Bangladesh Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_011
+    name: Bangladesh Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_012
+    name: Bangladesh Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_013
+    name: Bangladesh Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_014
+    name: Bangladesh Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_015
+    name: Bangladesh Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_016
+    name: Bangladesh Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_017
+    name: Bangladesh Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_018
+    name: Bangladesh Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_019
+    name: Bangladesh Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_020
+    name: Bangladesh Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_021
+    name: Bangladesh Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_022
+    name: Bangladesh Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_023
+    name: Bangladesh Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_024
+    name: Bangladesh Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_025
+    name: Bangladesh Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_026
+    name: Bangladesh Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_027
+    name: Bangladesh Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_028
+    name: Bangladesh Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_029
+    name: Bangladesh Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_030
+    name: Bangladesh Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_031
+    name: Bangladesh Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_032
+    name: Bangladesh Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_033
+    name: Bangladesh Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_034
+    name: Bangladesh Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_035
+    name: Bangladesh Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_036
+    name: Bangladesh Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_037
+    name: Bangladesh Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_038
+    name: Bangladesh Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_039
+    name: Bangladesh Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_040
+    name: Bangladesh Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_041
+    name: Bangladesh Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_042
+    name: Bangladesh Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_043
+    name: Bangladesh Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_044
+    name: Bangladesh Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_045
+    name: Bangladesh Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_046
+    name: Bangladesh Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_047
+    name: Bangladesh Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_048
+    name: Bangladesh Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_049
+    name: Bangladesh Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_050
+    name: Bangladesh Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_051
+    name: Bangladesh Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_052
+    name: Bangladesh Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_053
+    name: Bangladesh Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_054
+    name: Bangladesh Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_055
+    name: Bangladesh Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_056
+    name: Bangladesh Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_057
+    name: Bangladesh Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_058
+    name: Bangladesh Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_059
+    name: Bangladesh Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_060
+    name: Bangladesh Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_061
+    name: Bangladesh Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_062
+    name: Bangladesh Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_063
+    name: Bangladesh Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_064
+    name: Bangladesh Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_065
+    name: Bangladesh Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_066
+    name: Bangladesh Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_067
+    name: Bangladesh Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_068
+    name: Bangladesh Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_069
+    name: Bangladesh Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_070
+    name: Bangladesh Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_071
+    name: Bangladesh Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_072
+    name: Bangladesh Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_073
+    name: Bangladesh Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_074
+    name: Bangladesh Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_075
+    name: Bangladesh Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_076
+    name: Bangladesh Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_077
+    name: Bangladesh Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_078
+    name: Bangladesh Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_079
+    name: Bangladesh Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_080
+    name: Bangladesh Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_081
+    name: Bangladesh Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_082
+    name: Bangladesh Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_083
+    name: Bangladesh Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_084
+    name: Bangladesh Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_085
+    name: Bangladesh Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_086
+    name: Bangladesh Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_087
+    name: Bangladesh Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_088
+    name: Bangladesh Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_089
+    name: Bangladesh Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_090
+    name: Bangladesh Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_091
+    name: Bangladesh Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_092
+    name: Bangladesh Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_093
+    name: Bangladesh Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_094
+    name: Bangladesh Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_095
+    name: Bangladesh Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_096
+    name: Bangladesh Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_097
+    name: Bangladesh Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_098
+    name: Bangladesh Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_099
+    name: Bangladesh Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_100
+    name: Bangladesh Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_101
+    name: Bangladesh Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_102
+    name: Bangladesh Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_103
+    name: Bangladesh Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_104
+    name: Bangladesh Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_105
+    name: Bangladesh Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_106
+    name: Bangladesh Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_107
+    name: Bangladesh Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_108
+    name: Bangladesh Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_109
+    name: Bangladesh Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_110
+    name: Bangladesh Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_111
+    name: Bangladesh Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_112
+    name: Bangladesh Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_113
+    name: Bangladesh Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_114
+    name: Bangladesh Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_115
+    name: Bangladesh Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_116
+    name: Bangladesh Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_117
+    name: Bangladesh Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_118
+    name: Bangladesh Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_119
+    name: Bangladesh Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_120
+    name: Bangladesh Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_121
+    name: Bangladesh Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_122
+    name: Bangladesh Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_123
+    name: Bangladesh Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_124
+    name: Bangladesh Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_125
+    name: Bangladesh Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_126
+    name: Bangladesh Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_127
+    name: Bangladesh Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_128
+    name: Bangladesh Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_129
+    name: Bangladesh Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_130
+    name: Bangladesh Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_131
+    name: Bangladesh Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_132
+    name: Bangladesh Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_133
+    name: Bangladesh Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_134
+    name: Bangladesh Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_135
+    name: Bangladesh Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_136
+    name: Bangladesh Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_137
+    name: Bangladesh Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_138
+    name: Bangladesh Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_139
+    name: Bangladesh Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_140
+    name: Bangladesh Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_141
+    name: Bangladesh Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_142
+    name: Bangladesh Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_143
+    name: Bangladesh Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_144
+    name: Bangladesh Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_145
+    name: Bangladesh Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_146
+    name: Bangladesh Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_147
+    name: Bangladesh Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_148
+    name: Bangladesh Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_149
+    name: Bangladesh Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_150
+    name: Bangladesh Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_151
+    name: Bangladesh Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_152
+    name: Bangladesh Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_153
+    name: Bangladesh Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_154
+    name: Bangladesh Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_155
+    name: Bangladesh Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_156
+    name: Bangladesh Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_157
+    name: Bangladesh Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_158
+    name: Bangladesh Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_159
+    name: Bangladesh Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_160
+    name: Bangladesh Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_161
+    name: Bangladesh Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_162
+    name: Bangladesh Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_163
+    name: Bangladesh Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_164
+    name: Bangladesh Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_165
+    name: Bangladesh Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_166
+    name: Bangladesh Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_167
+    name: Bangladesh Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_168
+    name: Bangladesh Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_169
+    name: Bangladesh Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_170
+    name: Bangladesh Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_171
+    name: Bangladesh Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_172
+    name: Bangladesh Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_173
+    name: Bangladesh Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_174
+    name: Bangladesh Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_175
+    name: Bangladesh Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_176
+    name: Bangladesh Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_177
+    name: Bangladesh Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_178
+    name: Bangladesh Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_179
+    name: Bangladesh Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_180
+    name: Bangladesh Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_181
+    name: Bangladesh Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_182
+    name: Bangladesh Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_183
+    name: Bangladesh Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_184
+    name: Bangladesh Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_185
+    name: Bangladesh Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_186
+    name: Bangladesh Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_187
+    name: Bangladesh Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_188
+    name: Bangladesh Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_189
+    name: Bangladesh Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_190
+    name: Bangladesh Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_191
+    name: Bangladesh Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_192
+    name: Bangladesh Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_193
+    name: Bangladesh Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_194
+    name: Bangladesh Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_195
+    name: Bangladesh Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_196
+    name: Bangladesh Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_197
+    name: Bangladesh Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_198
+    name: Bangladesh Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_199
+    name: Bangladesh Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_200
+    name: Bangladesh Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_201
+    name: Bangladesh Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_202
+    name: Bangladesh Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_203
+    name: Bangladesh Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_204
+    name: Bangladesh Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_205
+    name: Bangladesh Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_206
+    name: Bangladesh Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_207
+    name: Bangladesh Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_208
+    name: Bangladesh Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_209
+    name: Bangladesh Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_210
+    name: Bangladesh Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_211
+    name: Bangladesh Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_212
+    name: Bangladesh Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_213
+    name: Bangladesh Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_214
+    name: Bangladesh Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_215
+    name: Bangladesh Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_216
+    name: Bangladesh Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_217
+    name: Bangladesh Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_218
+    name: Bangladesh Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_219
+    name: Bangladesh Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_220
+    name: Bangladesh Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_221
+    name: Bangladesh Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_222
+    name: Bangladesh Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_223
+    name: Bangladesh Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_224
+    name: Bangladesh Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_225
+    name: Bangladesh Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_226
+    name: Bangladesh Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_227
+    name: Bangladesh Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_228
+    name: Bangladesh Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_229
+    name: Bangladesh Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_230
+    name: Bangladesh Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_231
+    name: Bangladesh Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_232
+    name: Bangladesh Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_233
+    name: Bangladesh Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_234
+    name: Bangladesh Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_235
+    name: Bangladesh Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_236
+    name: Bangladesh Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_237
+    name: Bangladesh Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_238
+    name: Bangladesh Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_239
+    name: Bangladesh Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_240
+    name: Bangladesh Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_241
+    name: Bangladesh Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_242
+    name: Bangladesh Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_243
+    name: Bangladesh Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_244
+    name: Bangladesh Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_245
+    name: Bangladesh Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_246
+    name: Bangladesh Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_247
+    name: Bangladesh Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_248
+    name: Bangladesh Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_249
+    name: Bangladesh Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_250
+    name: Bangladesh Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_251
+    name: Bangladesh Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bd_252
+    name: Bangladesh Skill 252
+    status: ACTIVE_SCAFFOLD

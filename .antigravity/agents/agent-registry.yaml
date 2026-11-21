@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-bangladesh-canal-and-intervention-historian
-  name: Bangladesh Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-bangladesh-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_bd_001
+    name: Bangladesh Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_002
+    name: Bangladesh Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_003
+    name: Bangladesh Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_004
+    name: Bangladesh Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_005
+    name: Bangladesh Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_006
+    name: Bangladesh Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_007
+    name: Bangladesh Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_008
+    name: Bangladesh Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_009
+    name: Bangladesh Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_010
+    name: Bangladesh Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_011
+    name: Bangladesh Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_012
+    name: Bangladesh Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_013
+    name: Bangladesh Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_014
+    name: Bangladesh Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_015
+    name: Bangladesh Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_016
+    name: Bangladesh Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_017
+    name: Bangladesh Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_018
+    name: Bangladesh Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_019
+    name: Bangladesh Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_020
+    name: Bangladesh Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_021
+    name: Bangladesh Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_022
+    name: Bangladesh Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_023
+    name: Bangladesh Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_024
+    name: Bangladesh Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_025
+    name: Bangladesh Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_026
+    name: Bangladesh Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_027
+    name: Bangladesh Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_028
+    name: Bangladesh Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_029
+    name: Bangladesh Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_030
+    name: Bangladesh Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_031
+    name: Bangladesh Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_032
+    name: Bangladesh Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_033
+    name: Bangladesh Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_034
+    name: Bangladesh Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_035
+    name: Bangladesh Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_036
+    name: Bangladesh Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_037
+    name: Bangladesh Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_038
+    name: Bangladesh Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_039
+    name: Bangladesh Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_040
+    name: Bangladesh Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_041
+    name: Bangladesh Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_042
+    name: Bangladesh Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_043
+    name: Bangladesh Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_044
+    name: Bangladesh Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_045
+    name: Bangladesh Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_046
+    name: Bangladesh Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_047
+    name: Bangladesh Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_048
+    name: Bangladesh Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_049
+    name: Bangladesh Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_050
+    name: Bangladesh Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_051
+    name: Bangladesh Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_052
+    name: Bangladesh Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_053
+    name: Bangladesh Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_054
+    name: Bangladesh Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_055
+    name: Bangladesh Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_056
+    name: Bangladesh Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_057
+    name: Bangladesh Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_058
+    name: Bangladesh Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_059
+    name: Bangladesh Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_060
+    name: Bangladesh Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_061
+    name: Bangladesh Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_062
+    name: Bangladesh Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_063
+    name: Bangladesh Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_064
+    name: Bangladesh Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_065
+    name: Bangladesh Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_066
+    name: Bangladesh Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_067
+    name: Bangladesh Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_068
+    name: Bangladesh Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_069
+    name: Bangladesh Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_070
+    name: Bangladesh Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_071
+    name: Bangladesh Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_072
+    name: Bangladesh Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_073
+    name: Bangladesh Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_074
+    name: Bangladesh Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_075
+    name: Bangladesh Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_076
+    name: Bangladesh Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_077
+    name: Bangladesh Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_078
+    name: Bangladesh Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_079
+    name: Bangladesh Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_080
+    name: Bangladesh Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_081
+    name: Bangladesh Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_082
+    name: Bangladesh Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_083
+    name: Bangladesh Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_084
+    name: Bangladesh Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_085
+    name: Bangladesh Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_086
+    name: Bangladesh Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_087
+    name: Bangladesh Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_088
+    name: Bangladesh Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_089
+    name: Bangladesh Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_090
+    name: Bangladesh Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_091
+    name: Bangladesh Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_092
+    name: Bangladesh Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_093
+    name: Bangladesh Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_094
+    name: Bangladesh Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_095
+    name: Bangladesh Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_096
+    name: Bangladesh Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_097
+    name: Bangladesh Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_098
+    name: Bangladesh Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_099
+    name: Bangladesh Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_100
+    name: Bangladesh Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_101
+    name: Bangladesh Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_102
+    name: Bangladesh Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_103
+    name: Bangladesh Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_104
+    name: Bangladesh Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_105
+    name: Bangladesh Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_106
+    name: Bangladesh Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_107
+    name: Bangladesh Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_108
+    name: Bangladesh Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_109
+    name: Bangladesh Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_110
+    name: Bangladesh Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_111
+    name: Bangladesh Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_112
+    name: Bangladesh Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_113
+    name: Bangladesh Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_114
+    name: Bangladesh Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_115
+    name: Bangladesh Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_116
+    name: Bangladesh Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_117
+    name: Bangladesh Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_118
+    name: Bangladesh Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_119
+    name: Bangladesh Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_120
+    name: Bangladesh Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_121
+    name: Bangladesh Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_122
+    name: Bangladesh Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_123
+    name: Bangladesh Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_124
+    name: Bangladesh Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_125
+    name: Bangladesh Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_126
+    name: Bangladesh Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_127
+    name: Bangladesh Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_128
+    name: Bangladesh Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_129
+    name: Bangladesh Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_130
+    name: Bangladesh Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_131
+    name: Bangladesh Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_132
+    name: Bangladesh Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_133
+    name: Bangladesh Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_134
+    name: Bangladesh Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_135
+    name: Bangladesh Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_136
+    name: Bangladesh Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_137
+    name: Bangladesh Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_138
+    name: Bangladesh Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_139
+    name: Bangladesh Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_140
+    name: Bangladesh Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_141
+    name: Bangladesh Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_142
+    name: Bangladesh Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_143
+    name: Bangladesh Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_144
+    name: Bangladesh Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_145
+    name: Bangladesh Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_146
+    name: Bangladesh Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_147
+    name: Bangladesh Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_148
+    name: Bangladesh Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_149
+    name: Bangladesh Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_150
+    name: Bangladesh Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_151
+    name: Bangladesh Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_152
+    name: Bangladesh Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_153
+    name: Bangladesh Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_154
+    name: Bangladesh Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_155
+    name: Bangladesh Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_156
+    name: Bangladesh Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_157
+    name: Bangladesh Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_158
+    name: Bangladesh Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_159
+    name: Bangladesh Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_160
+    name: Bangladesh Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_161
+    name: Bangladesh Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_162
+    name: Bangladesh Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_163
+    name: Bangladesh Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_164
+    name: Bangladesh Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_165
+    name: Bangladesh Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_166
+    name: Bangladesh Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_167
+    name: Bangladesh Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_168
+    name: Bangladesh Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_169
+    name: Bangladesh Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bd_170
+    name: Bangladesh Agent 170
+    status: ACTIVE_SCAFFOLD
