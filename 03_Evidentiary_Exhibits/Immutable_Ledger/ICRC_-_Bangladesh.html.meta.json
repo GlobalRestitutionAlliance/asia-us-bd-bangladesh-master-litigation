@@ -1,0 +1,19 @@
+{
+  "url": "https://www.icrc.org/en/where-we-work/asia-pacific/bangladesh",
+  "final_url": "https://www.icrc.org/en/where-we-work/bangladesh",
+  "title": "ICRC - Bangladesh",
+  "fetched_at": "2026-11-23T15:21:21.120454Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 71117,
+  "sha256": "c702acb6ae80b0772bdeb0ddd4941900eb76a74ce4283ea681e9ab469695dc83",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Possible challenge/empty capture; pending recapture.",
+  "redaction_note": "Redacted Mapbox token from public captured HTML before push; hash/bytes updated."
+}
